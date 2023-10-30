@@ -13,7 +13,7 @@
     <p align="left">
     <a href="https://dev.to/flutter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="flutter" height="30" width="40" /></a>
     <a href="https://instagram.com/sumit_patil_205" target="blank">
-      <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumit_patil_205" width="100px"></a>
+      <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumit_patil_205" width="100px" height="100px"></a>
       
     </p>
 
