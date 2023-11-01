@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Flutter Developer</h1>
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="">
 <h3 align="center">A passionate flutter developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" img align="right" height="190vh" width="190vh">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" img align="center" height="190vh" width="190vh">
 <br>
 <br>
 <br>
