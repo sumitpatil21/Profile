@@ -2,7 +2,13 @@
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="">
 <h3 align="center">A passionate flutter developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" img align="right" height="190vh" width="190vh">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitpatil21" alt="sumitpatil21" /></a> </p>
+<br>
+<br>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitpatil21" alt="sumitpatil21" /></a>
+<br>
+<br>
+<br></p>
 
 - 🔭 I’m currently working on **c**
 
