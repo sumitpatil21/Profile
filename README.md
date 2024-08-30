@@ -10,7 +10,7 @@
 <br>
 <br></p>
 
-- 🔭 I’m currently working on **c**
+- 🔭 I’m currently working on **Flutter**
 
 - 👯 I’m looking to collaborate on **c++**
 
